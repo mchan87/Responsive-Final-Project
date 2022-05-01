@@ -145,11 +145,11 @@ p {
 
 footer .social-links a {
   margin: 0px 20px;
-  font-size: 18px;
+  font-size: 40px;
   color: var(--primary-color);
   background: var(--secondary-color);
   border-radius: 50%;
-  padding: 10px 14px;
+  padding: 10px 20px;
   transition: all 100ms ease-in-out;
 }
 
@@ -166,13 +166,10 @@ footer .contact-box {
   background-color: var(--secondary-color);
   padding: 30px 40px;
   border-radius: 10px;
+  margin-bottom: 50px;
 }
 
 footer p {
   padding: 0px;
   text-align: left;
-}
-
-.index-footer {
-  margin-top: 40px;
 }
